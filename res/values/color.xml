@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <drawable name="white">#FFFFFF</drawable>
+    <drawable name="black">#000000</drawable>
+    <drawable name="normal_epoint_title_pink">#F05B82</drawable>
+    <drawable name="facebook_blue">#3B5998</drawable>
+    <drawable name="Yellow">#D9DC00</drawable>
+    
+    <drawable name="background">#FCDBDB</drawable>
+    
+    <drawable name="actionbar_text">#FCDBDB</drawable>
+    <drawable name="actionbar_background">#F0F05B82</drawable>
+
+    <drawable name="dialog_title">#F05B82</drawable>
+    <drawable name="dialog_button">#F05B82</drawable>
+    <drawable name="dialog_button_pressed">#C03D68</drawable>
+    <drawable name="dialog_button_focused">#C03D68</drawable>
+    
+    <drawable name="tab_unselected">#50FF55A8</drawable>
+    <drawable name="tab_selected">#50DC006B</drawable>
+    <drawable name="tab_unselected_focused">#50D9DC00</drawable>
+    <drawable name="tab_selected_focused">#509EA000</drawable>
+    <drawable name="tab_unselected_pressed">#50FF1989</drawable>
+    <drawable name="tab_selected_pressed">#50A0004E</drawable>
+    
+    <drawable name="MyActionBarTitleText">#000000</drawable>
+
+</resources>

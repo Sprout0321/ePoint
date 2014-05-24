@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ePoint</string>
+    <string name="AfterLoginTitle">AfterLogin</string>
+    <string name="BeforeLoginTitle">BeforeLogin</string>
+    <string name="LogoTitle">ePoint</string>
+    <string name="FacebookLoginTitle">FacebookLogin</string>
+    
+    <string name="app_id">752788708075038</string>
+    <string name="app_id_2">221568131376898</string>
+    
+    <string name="action_settings">設定</string>
+    <string name="action_search">Search</string>
+    <string name="action_logout">登出</string>
+    
+    <string name="action_record">Record Video</string>
+    <string name="action_save">Save</string>
+    <string name="action_label">Add Label</string>
+    <string name="action_play">Play Video</string>
+    
+    <string name="login">Login</string>
+    <string name="instructions">Login to create a link to fetch account data</string>
+    <string name="logout">Log out</string>
+
+</resources>
